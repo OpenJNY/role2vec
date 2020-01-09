@@ -1,4 +1,4 @@
-"""Heterogeneous Motif Counting Tool.""""
+"""Heterogeneous Motif Counting Tool."""
 
 import math
 import pandas as pd
